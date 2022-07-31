@@ -11,7 +11,7 @@
     "homepage": "https://github.com/chadsten/mc-emerald-tier",
     "sources": "https://github.com/chadsten/mc-emerald-tier"
   },
-  "license": "GPL-3.0",
+  "license": "LGPL-3.0",
   "icon": "assets/emeraldtier/icon.png",
   "environment": "*",
   "entrypoints": {
